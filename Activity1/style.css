@@ -1,0 +1,17 @@
+h1 {
+    color: #98e2ff;
+    text-align: center;
+}
+
+.h4 {
+    margin-left: 40px;
+}
+.input_box {
+    background-color: #98e2ff  ;
+    border: 0;
+    outline: 0;
+    border-radius: 20px;
+    width:190px;
+    height: 30px;
+    padding: 10px;
+}
